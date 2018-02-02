@@ -1,0 +1,35 @@
+{
+  "name": "officialize-nfl",
+  "version": "1.0.0",
+  "description": "This project is a responsive single page website design and development to highlight life and career of NFL New York Giants' player Odell Beckham Jr. and his brand, creating a pleasant and inspiring experience to NFL fans.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://maursilveira@bitbucket.org/octopx-projects/officialize-nfl.git"
+  },
+  "keywords": [
+    "officialize",
+    "nfl",
+    "odell",
+    "beckham"
+  ],
+  "author": "Octopx Digital",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/octopx-projects/officialize-nfl#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "git://github.com/gruntjs/grunt-contrib-uglify.git#harmony",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-postcss": "^0.9.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^7.2.3",
+    "cssnano": "^3.10.0",
+    "pixrem": "^4.0.1"
+  }
+}
